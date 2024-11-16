@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y7d5wqtvjjqvnmeg"
+#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" tvg-logo="https://images.app.goo.gl/K6znjUSC2KejWUrK7" group-title="(no group)" tvg-shift="-12",Hungama
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://images.app.goo.gl/6RpHSw8V1LX292wX9" group-title="(no group)" tvg-shift="-12",Disney
+http://119.156.26.155:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="Sony Yay" tvg-name="Sony Yay" tvg-logo="" group-title="(no group)" tvg-shift="-12",Sony Yay
+https://dai.google.com/ssai/event/40HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="" group-title="(no group)" tvg-shift="-12",Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 tvg-id="Nick Hindi" tvg-name="Nick Hindi" tvg-logo="" group-title="(no group)" tvg-shift="-12",Nick Hindi
+http://mumsite.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&amp;pxe=1581172404&amp;st=2rABpyTLSDzkoYSlKcWJhg
+#EXTINF:-1 tvg-id="Sonic Hindi" tvg-name="Sonic Hindi" tvg-logo="" group-title="(no group)" tvg-shift="-12",Sonic Hindi
+http://tv.cloudcdn.me/live.ts?channelId=40476&amp;uid=13603&amp;deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="" group-title="(no group)" tvg-shift="-12",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Super Hungama" tvg-name="Super Hungama" tvg-logo="" group-title="(no group)" tvg-shift="-12",Super Hungama
+https://itvs.live/live/ns.mohan/123456/67312.ts
